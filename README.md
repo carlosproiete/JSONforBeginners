@@ -31,3 +31,6 @@ As many times as you chose in the first question.
 ```JsonConvert.SerializeObject()``` to transform an object or List<T> into a simple string.
 and
 ```JsonConvert.DeserializeObject<List<T>>()``` to transform a JSON string back into a .NET object. 
+
+
+Please feel free to comment.
