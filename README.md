@@ -21,8 +21,8 @@ The program consists in storing animal's information using a .NET Class and JSON
 ## You will be asked to type in:
 * How many animals you want to store as JSON
 * What is the animal's name
-* Where does this animal lives
-* What does it like to eat
+* Where does this animal live
+* What does it likes to eat
 
 As many times as you chose in the first question.
 
