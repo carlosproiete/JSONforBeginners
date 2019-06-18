@@ -3,7 +3,7 @@ Simple console application to create and manipulate JSON Objects in C#
 
 Hello! 
 
-This is a simple Console Application, to cover creation and manipulation of JavaScript Object Notation, and it's use in C#,
+This is a simple Console Application, to cover creation and manipulation of .NET objects, using JavaScript Object Notation, and it's use in C#,
 through a NuGet Package called:
 
 ```Newtonsoft.JSON```, recommended by the book ```"Exam Ref 70-483 - Programming in C#"``` 
